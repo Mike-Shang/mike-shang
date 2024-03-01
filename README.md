@@ -1,6 +1,6 @@
 # 欢迎来到我的GitHub主页！👋
 
-![Banner](https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg)
+![Banner](https://github.com/Mike-Shang/mike-shang/blob/master/1600w-5YDmHwJk-Yc.webp)
 
 你好！我是Mike Shang，一位学生。我喜欢探索新技术，并致力于通过技术创新解决问题。
 
@@ -39,4 +39,4 @@
 
 感谢你访问我的个人资料。期待与你的连接！
 
-![Footer Banner](https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg)
+![Footer Banner](https://github.com/Mike-Shang/mike-shang/blob/master/1600w-5YDmHwJk-Yc.webp)
