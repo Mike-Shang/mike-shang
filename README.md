@@ -1,29 +1,42 @@
-# 欢迎来到我的GitHub主页！
+# 欢迎来到我的GitHub主页！👋
 
-## 自我介绍
+![Banner](https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg)
 
-您好！我是Mike Shang，一名学生。
+你好！我是Mike Shang，一位学生。我喜欢探索新技术，并致力于通过技术创新解决问题。
+
+## 关于我
+
+我目前在多伦多。我特别感兴趣的领域是人工智能。在空闲时间，我喜欢学习Python。
+
+## 技能和技术
+
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-JavaScript-yellow)
+![](https://img.shields.io/badge/Tools-Docker-blue)
+![](https://img.shields.io/badge/Framework-React-blue)
+
+这里是我工作中使用的一些技术：
+
+- 编程语言：Python、JavaScript、Java
+- 框架与工具：React、Node.js、Docker
+- 其他技能：数据分析、机器学习、UI/UX设计
 
 ## 项目
 
 这里是我一些值得关注的项目：
 
-- **项目名称1** - 简短描述这个项目是关于什么的。
-- **项目名称2** - 这个项目的目的和达成的成果。
-- **项目名称3** - 介绍这个项目的技术栈和实现难点。
+- **项目名称1** - Microsoft AI talent progam
+- **项目名称2** - GEC Academy
+- **项目名称3** - 等待更新
 
-## 技能
+## 联系我
 
-这里是我掌握的一些技能：
-
-- 编程语言：Python、JavaScript、Java等
-- 框架和工具：React、Node.js、Docker等
-- 其他技能：数据分析、机器学习、UI/UX设计等
-
-## 联系方式
+如果你对我的工作感兴趣，或者想讨论潜在的合作，请不要犹豫，通过以下方式联系我：
 
 - **邮箱**：spacemike@163.com
-- **LinkedIn**：[LinkedIn 个人资料的链接]
-- **微博/其他社交媒体**：[链接]
+- **LinkedIn**：等待更新
+- **Twitter/其他社交媒体**：等待更新
 
-感谢您的访问，期待与您的合作！
+感谢你访问我的个人资料。期待与你的连接！
+
+![Footer Banner](https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg)
