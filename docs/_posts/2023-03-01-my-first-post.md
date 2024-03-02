@@ -4,6 +4,7 @@ title: "first blog"
 date: 2023-03-01
 categories: blog
 tags: [sample, introduction]
+published: true
 ---
 
 Wellcome to my blog
