@@ -18,16 +18,16 @@
 这里是我工作中使用的一些技术：
 
 - 编程语言：Python、JavaScript、Java
-- 框架与工具：React、Node.js、Docker
+- 框架与工具：React、Node.js、Tensorflow
 - 其他技能：数据分析、机器学习、UI/UX设计
 
 ## 项目
 
 这里是我一些值得关注的项目：
 
-- **项目名称1** - Microsoft AI talent progam
-- **项目名称2** - GEC Academy
-- **项目名称3** - 等待更新
+-  Microsoft AI talent progam
+-  GEC Academy
+-  等待更新
 
 ## 联系我
 
