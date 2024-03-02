@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Mike Shang"
-  avatar           : "https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg"
+  avatar           : 
   bio              : "I am an **amazing** person."
   location         : "Canada Toronto"
   email            : "spacemike@163.com"
@@ -154,8 +154,8 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
+  - docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -181,7 +181,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - docs # ignore Minimal Mistakes /docs
+   # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
