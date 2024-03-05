@@ -2,14 +2,9 @@
 layout: archive
 ---
 
+<img src="https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg?raw=true" alt="Banner Image" style="width:100%;">
+
 {{ content }}
-
-
-<<img src="https://github.com/Mike-Shang/mike-shang/blob/master/banner-1052711_1280.jpg?raw=true" alt="Banner Image">
-style="width:100%;">
-
-
-
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
