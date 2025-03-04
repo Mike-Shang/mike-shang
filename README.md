@@ -17,7 +17,7 @@
 
 这里是我工作中使用的一些技术：
 
-- 编程语言：Python, C , JavaScript、MIPS
+- 编程语言：Python, C , JavaScript, MIPS
 - 框架与工具：React、Vue 、Tensorflow
 - 其他技能：数据分析、机器学习、UI/UX设计
 
